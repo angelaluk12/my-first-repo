@@ -1,6 +1,6 @@
 # my-first-repo
 Hi, I'm Angela 👋
-I'm a student in grade ___ in the San Fernando Valley, learning AI and data science with the Valley AI Club.
+I'm a student in grade ?? in the San Fernando Valley, learning AI and data science with the Valley AI Club.
 
 About me
 I'm interested in: ___
